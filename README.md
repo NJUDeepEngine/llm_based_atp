@@ -5,10 +5,10 @@
     src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ATP Model-ffc107?color=ffc107&logoColor=white"/></a>
 </p>
 
-This repository contains the implementation for the paper:
-***LLM-based Automated Theorem Proving Hinges on Scalable Synthetic Data Generation***
+This repository contains the implementation of our DoBeVi proposed in the paper:
+***LLM-based Automated Theorem Proving Hinges on Scalable Synthetic Data Generation*** [\[📄 arXiv:2505.12031\]](https://arxiv.org/abs/2505.12031)
 
-> [\[📄 arXiv:2505.12031\]](https://arxiv.org/abs/2505.12031)
+We thank [LeanDojo](https://leandojo.org) for its significant contributions to the ATP community, upon which our DoBeVi framework is proudly built.
 
 ---
 
