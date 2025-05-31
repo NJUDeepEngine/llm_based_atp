@@ -1,4 +1,9 @@
 # LLM-based Automated Theorem Proving Hinges on Scalable Synthetic Data Generation
+<p align="center">
+    <a href="https://arxiv.org/abs/2505.12031"><img alt="paper" src="https://img.shields.io/badge/Paper-arXiv-B31B1B?logo=arxiv"></a>
+    <a href="https://huggingface.co/NJUDeepEngine/llm_based_atp"><img alt="Hugging Face"
+    src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ATP Model-ffc107?color=ffc107&logoColor=white"/></a>
+</p>
 
 This repository contains the implementation for the paper:
 ***LLM-based Automated Theorem Proving Hinges on Scalable Synthetic Data Generation***
