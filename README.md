@@ -17,7 +17,7 @@ This repository contains the implementation for the paper:
 ```text
 llm_base_atp/
 ├── README.md                    # Project documentation
-├── Visual/                      # Proof search tree visualizations
+├── Visual/                      # The visualization of tree-search proof results for MiniF2F
 ├── DoBeVi/                      # Core implementation of DoBeVi
 │   ├── requirements.txt         # Python dependencies
 │   └── src/                     # Source code
