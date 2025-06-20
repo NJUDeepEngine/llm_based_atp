@@ -171,7 +171,7 @@ class UnsolvedNode(Node):
     
 
 
-@dataclass
+@dataclass(eq=False)
 class Edge:
     """
     An edge in the search tree, representing a tactic.
